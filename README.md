@@ -1,10 +1,10 @@
 # Graph Class Implementation
 
-C++ implementation of graph
+My C++ implementation of graph data structure
 
 Based on [Alpro ITS's data structure module](https://github.com/AlproITS/StrukturData)
 
-All transversal function are checked on [visualgo](https://visualgo.net/en/dfsbfs)
+All transversal functions are checked on [visualgo](https://visualgo.net/en/dfsbfs)
 
 Feel free to use!
 
