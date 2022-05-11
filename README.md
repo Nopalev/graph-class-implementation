@@ -1,4 +1,5 @@
 # Graph Class Implementation
+
 C++ implementation of graph
 
 Based on [Alpro ITS's data structure module](https://github.com/AlproITS/StrukturData)
