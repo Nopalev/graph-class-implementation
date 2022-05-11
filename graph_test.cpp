@@ -13,8 +13,9 @@ int main(){
     graph.addEdge(0, 4);
     graph.addEdge(2, 4);
     graph.dfs(2, transversal);
-    for(auto it : transversal) cout << it << "\n";
+    for(auto it : transversal) cout << it << " ";
+    cout << "\n";
     graph.bfs(2, transversal);
-    for(auto it : transversal) cout << it << "\n";
+    for(auto it : transversal) cout << it << " ";
     return 0;
 }
